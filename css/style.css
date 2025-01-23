@@ -1,0 +1,173 @@
+:root {
+  --dimensionWidthButton: fit-content;
+  --dimensionHeightButton: fit-content;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("../assets/fondTable.jpg");
+
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+
+  width: 100vw;
+  height: 100vh;
+}
+
+.containerMainHistory {
+  /* margin: 0;
+  padding: 0; */
+
+  background-image: url("../assets/livre\ ouvert.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+
+  width: 100%;
+  height: 100%;
+
+  /* border: 5px solid blue; */
+}
+
+.containerMainIntro {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-items: flex-start;
+  align-items: center;
+
+  width: 100%;
+  height: 100%;
+}
+
+.containerLeft {
+  position: relative;
+
+  width: 50%;
+  height: 100%;
+
+  /* border: 2px solid red; */
+}
+
+.containerRight {
+  position: relative;
+  width: 50%;
+  height: 100%;
+
+  /* border: 2px solid yellow; */
+}
+
+.containerText {
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 15px;
+
+  position: absolute;
+  top: 15%;
+  left: 50%;
+
+  width: 43%;
+  height: fit-content;
+  padding: 15px;
+  border: 2px solid black;
+
+  box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.7);
+}
+
+.text {
+  /*text */
+  font-family: Dancing Script, "Times New Roman", Times, serif;
+  font-size: 25px;
+  letter-spacing: 0.3rem;
+  color: white;
+}
+
+.title {
+  /*text */
+  font-family: Dancing Script, "Times New Roman", Times, serif;
+  font-size: 40px;
+  letter-spacing: 0.3rem;
+  font-weight: bold;
+  color: rgb(243, 240, 80);
+  padding-bottom: 15px;
+}
+
+.containerDice {
+  background-image: url("../assets/des.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 76%;
+  left: 3%;
+
+  width: 240px;
+  height: 180px;
+  box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0);
+
+  cursor: pointer;
+}
+
+.containerDice:hover {
+  box-shadow: 15px 15px 10px rgba(255, 255, 255, 0.7);
+  opacity: 1;
+}
+
+.containerImageHistory {
+  position: absolute;
+  top: 17%;
+  left: 11%;
+  width: 40%;
+  box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.7);
+}
+
+.containerChoices {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  width: 50%;
+
+  /* border: 2px solid white; */
+  position: absolute;
+  top: 69%;
+  left: 6%;
+}
+
+.choice {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+
+  padding: 0 10px;
+  width: var(--dimensionWidthButton);
+  height: var(--dimensionHeightButton);
+
+  border-radius: 15px;
+
+  background-color: rgba(255, 228, 196, 0.3);
+
+  font-family: Dancing Script, "Times New Roman", Times, serif;
+  font-size: 35px;
+  font-weight: bold;
+  color: black;
+
+  cursor: pointer;
+
+  box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.7);
+}
+
+.choice:hover {
+  background-color: rgba(255, 228, 196, 0.5);
+  box-shadow: 15px 15px 10px rgba(255, 255, 255, 0.7);
+}

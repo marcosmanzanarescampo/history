@@ -1,0 +1,165 @@
+Notre héros dans cette histoire est un petit chaton condamné à l'exil par un roi cruel. Depuis, il parcourt le pays afin d'aider le monde à devenir meilleur… On l'appelle "El Gato".  
+Le maire du village fait appel à notre héros pendant le réveillon, car il est en détresse.  
+L'étoile du sapin de Noël de la ville a disparu ! Impensable ! Dans ce village, il y a une vieille légende qui raconte que le Père Noël a besoin de cette étoile magique pour trouver le chemin du village afin de distribuer les cadeaux.  
+Autant dire que depuis qu'elle a disparu, les parents viennent voir le maire et la popularité du maire est en chute libre.  
+Il vous propose une grosse récompense si vous lui rapportez l'étoile.
+
+Voulez-vous aider le maire ? Oui / Non
+
+Non : Vous décidez que cette histoire d'étoile magique et de Père Noël, c'est pour les bébés, et que vous avez des choses beaucoup plus importantes à faire ! 
+
+Oui : Par quoi voulez-vous commencer ? Interroger les témoins / Rechercher des indices
+
+Interroger les témoins :  
+- La serveuse de l'auberge  
+- Le boulanger  
+- Une passante
+
+La serveuse de l'auberge:  
+- Bonjour, bienvenue à l'auberge du Chat Teigne, je m'appelle Juliette. Que puis-je pour vous ?  
+- Hola ! On vous cite comme témoin dans l'histoire du vol de l'étoile, vous pouvez m'en dire plus ?  
+- Bien sûr, au début de mon service à 17h, elle était encore là, mais après mon service, j'ai remplacé Bernard à la plonge.  
+Je suis rentrée chez moi vers 3h et elle avait disparu. J'ai remarqué des traces de pas autour de l'arbre, mais je n'ai pas reconnu la forme des pattes.  
+Voulez-vous interroger d'autres témoins ou suivre la piste ?
+(Si le joueur suit la piste, aller directement à l'embuscade.  
+Si le joueur a déjà interrogé les 2 autres témoins, proposer d'aller chercher des indices ou de suivre la piste).
+
+La boulangerie:  
+- Bonjour, bienvenue à la boulangerie Chat Malow, qu'est-ce que je vous sers ?  
+- Hola ! J'aimerais parler au boulanger, s'il vous plaît.  
+- Je suis Malow, le boulanger, c'est pour quoi ?  
+- On vous cite comme témoin dans l'histoire du vol de l'étoile, vous pouvez m'en dire plus ?  
+- Oui, j'étais dans mon labo en train de préparer mes tartes à la châtaigne quand je me suis aperçu de sa disparition. La fenêtre du labo donne sur l'arbre.  
+Je ne pouvais pas la manquer, il était aux alentours de 2h45 quand j'ai remarqué sa disparition.  
+Voulez-vous interroger d'autres témoins ou suivre la piste ?
+(Si le joueur suit la piste, aller directement à l'embuscade.  
+Si le joueur a déjà interrogé les 2 autres témoins, proposer d'aller chercher des indices ou de suivre la piste).
+
+La passante: Vous voyez une vieille taupe se diriger vers vous.  
+- Claudia : Bonjour, vous êtes l'aventurier qui recherche l'étoile ?  
+- Si ! C'est moi, El Gato.  
+- J'ai tout vu ! Il a pris l'étoile et est parti avec ! Il ressemblait à une sorte d'elfe, mais tout vert, il a même perdu son bonnet.  
+Elle vous tend un bonnet vert avec un pompon blanc au bout.  
+Voulez-vous interroger d'autres témoins ou suivre la piste ? 
+(Si le joueur suit la piste, aller directement à l'embuscade.  
+Si le joueur a déjà interrogé les 2 autres témoins, proposer d'aller chercher des indices ou de suivre la piste).
+
+Rechercher des indices :  
+- Regarder autour du sapin  
+- Escalader le sapin à la recherche d'indices là où se trouvait l'étoile
+
+Escalader le sapin à la recherche d'indices là où se trouvait l'étoile :  
+Vous grimpez tout en haut du sapin avec la grâce et l'agilité connues d'El Gato. Vous analysez la scène du crime attentivement et trouvez une touffe de poils accrochée à une branche.  
+Dans l'excitation d'avoir trouvé une piste sérieuse, vous célébrez votre trouvaille en faisant une petite danse.  
+Mais une guirlande accrochée à cette branche vous fait glisser. Vous chutez du haut de l'arbre et vous vous rompez le cou. ( =>Fin de partie.)
+
+Regarder autour du sapin:  
+Vous faites le tour du sapin et vous remarquez des traces de pas étranges. Un début de piste peut être suivi.  
+Voulez-vous suivre cette piste ou interroger les témoins ?  
+(Si le joueur suit la piste, aller directement à l'embuscade.  
+Si le joueur décide d'interroger les témoins et qu'il suit ensuite la piste, aller directement à la confrontation avec le voleur).
+
+Embuscade :  
+En suivant la piste que vous avez trouvée, vous arrivez dans une forêt. Soudain, une bande de renards vous encercle et vous vous retrouvez piégé.  
+Deux possibilités se présentent à vous : vous décidez de les menacer avec votre charisme et votre prestance, ou vous décidez de les combattre tous ?
+
+Menacer :  
+Vous faites le dos rond pour vous rendre plus grand et commencez à grogner… (Le joueur lance le dé via le bouton 
+- Si le dé affiche un chiffre entre 1 et 3, la menace ne fonctionne pas et l'aventurier se fait détrousser. ( =>Fin de partie.)  
+- Si le dé affiche un chiffre entre 4 et 6, les brigands prennent la fuite.)  
+
+La menace ne fonctionne pas: En essayant de grogner, vous recrachez une boule de poils et perdez toute crédibilité auprès des brigands. Ils en profitent pour vous attaquer. Même en utilisant votre botte secrète, vous vous retrouvez dépassé par le nombre. Les brigands en profitent pour vous détrousser et vous vous retrouvez complètement nu, attaché dans la forêt.  
+On vous retrouvera le lendemain, malheureusement trop tard, et l'étoile n'ayant pas été retrouvée, tout le monde vous rejettera la faute. ( =>Fin de partie.) 
+
+La menace fonctionne: Avec votre posture impressionnante et votre présentation, tous les brigands frissonnent quand le nom d'El Gato est prononcé. Ils s'excusent immédiatement et vous indiquent la cachette d'une personne suspecte.  
+(=>Aller à la confrontation du voleur.)
+
+Combattre :  
+Vous prenez votre position d'attaque, analysez la situation et… (Le joueur lance le dé via le bouton
+- Si le dé affiche un chiffre entre 1 et 3, l'attaque ne fonctionne pas et l'aventurier meurt.  
+- Si le dé affiche un chiffre entre 4 et 6, les brigands sont maîtrisés. ) 
+
+L'attaque ne fonctionne pas : Dans la précipitation, vous dégainez votre épée, mais celle-ci vous échappe des mains et se retrouve au pied de vos adversaires.  
+Avec votre agilité légendaire, vous sautez contre un arbre pour prendre appui afin d'effectuer votre botte secrète, mais au moment de rebondir, votre patte se coince et vous vous retrouvez coincé dans l'arbre, la tête en bas. Les assaillants vous utilisent alors comme punching-ball. Après vous avoir roué de coups, ils vous laissent nu dans la forêt, agonisant… Vous mourez quelques heures après dans d'atroces souffrances et tout le monde au village pense qu'El Gato les a abandonnés… ( =>Fin de partie.) 
+
+L'attaque fonctionne: Vous dégainez lentement votre épée, la pression dans l'air est palpable. Entouré par vos adversaires, vous décidez de tourner sur vous-même, la lame de votre épée fendant l'air et les ceintures de vos adversaires.  
+Leurs pantalons tombent sur leurs genoux, sentant une brise fraîche sur leurs fesses. Un mouvement de panique se crée et ils finissent tous par tomber à la renverse. Vous les attachez facilement et sans effort. Ils vous révèlent qu'un individu suspect se cache non loin et vous indiquent sa cachette.  
+(=>Aller à la confrontation du voleur.)
+
+Confrontation avec le voleur :  
+Après avoir découvert la cachette du voleur, vous le confrontez…  
+Vous avez deux possibilités : essayer de le persuader de se rendre et récupérer l'étoile en douceur ou la reprendre par la force.
+
+Vous essayez de récupérer l'étoile en douceur:  
+- Ne sois pas un idiot ! Rends-moi l'étoile avant qu'El Gato te fasse bobo ! (Le joueur lance le dé via le bouton)  
+- Si le dé affiche un chiffre entre 1 et 3, la menace ne fonctionne pas et le voleur prend la fuite.  
+- Si le dé affiche un chiffre entre 4 et 6, le voleur prend peur et se rend à la justice.  
+
+La menace ne fonctionne pas :  
+  - Euh, qui ça ?  
+  - Bah, El Gato, le grand justicier !  
+  - Euh, je connais pas ?  
+  - Mais si, le défenseur de la veuve et de l'orphelin, le pourfendeur des…  
+  Pendant que vous faites l'éloge de vos exploits, le voleur en profite pour prendre la fuite. Vous vous rendez compte qu'il a pris soin d'effacer ses traces. Introuvable, vous rentrez la queue entre les jambes, la tête baissée d'avoir échoué à votre mission… ( =>Fin de partie.)
+
+La menace fonctionne :  
+  - Non, ce n'est pas possible ! Un vulgaire chaton ne peut pas être le grand El Gato !  
+  Vous effectuez alors une acrobatie avec votre arme et faites un grand G sur la chemise du voleur avec votre épée.  
+  - C'est bon, je vous crois ! Ne me faites pas de mal, s'il vous plaît ! Je me rends !  
+  Le voleur se laisse attacher les poignets et vous rend l'étoile. Vous reprenez la route, la tête haute, vers le village.
+
+Vous essayez de récupérer l'étoile par la force :  
+Vous foncez tête baissée sur lui… (Le joueur lance le dé via le bouton  
+- Si le dé affiche un chiffre entre 1 et 3, l'attaque ne fonctionne pas et l'aventurier meurt.  
+- Si le dé affiche un chiffre entre 4 et 6, le voleur est maîtrisé et l'aventurier a gagné.  )
+
+L'attaque ne fonctionne pas :  
+  Quand vous arrivez jusqu'au voleur, prêt à l'embrocher comme un kebab, il vous esquive.  
+  Dans votre élan, vous vous prenez les pieds dans une racine. En tombant, vous vous empalez sur votre épée et vous mourez sur le coup. ( =>Fin de partie.) 
+
+L'attaque fonctionne :  
+  Vif comme l'éclair, vous arrivez derrière le voleur et lui assénez un coup de pommeau sur la nuque.  
+  Vous le ligotez aisément, récupérez l'étoile et direction le village pour toucher la récompense.
+
+Piège dans la forêt :  
+Après avoir récupéré vaillamment l'étoile, en vous dirigeant vers le village, vous vous faites stopper par un gros chien qui vous dit :  
+- Eh toi là ! Donne à Brutus tout de suite l'étoile sinon ça va mal se passer !  
+Vous tentez de feinter votre adversaire.  
+- Euh, une étoile ? Je n'ai pas d'étoile, vous devez sûrement confondre avec El Gato, je l'ai vu tout à l'heure en cherchant des champignons ! 
+
+(Le joueur lance le dé via le bouton  
+- Si le dé affiche un chiffre entre 1 et 3, la feinte ne fonctionne pas et l'aventurier se fait attaquer.  
+- Si le dé affiche un chiffre entre 4 et 6, la feinte fonctionne et l'aventurier regagne tranquillement le village.)
+
+La feinte ne fonctionne pas :  
+Brutus vous regarde bizarrement, sort un portrait de sa poche, le regarde, vous regarde, le regarde, vous regarde et dit :  
+- Beeeeeeh, si c'est pas toi El Gato, pourquoi sur cette affiche y'a ta tête avec écrit "El Gato" ? J'aime pas qu'on me prenne pour un imbécile !  
+Dans un accès de colère, Brutus se jette sur vous. Vous devez vous défendre ou vous excuser et donner l'étoile ?
+
+La feinte fonctionne :  
+- Ah ! Bah pardon, je croyais que c'était toi ! Tu l'as vu où exactement ?  
+Vous lui indiquez une direction, Brutus vous remercie chaleureusement et s'en va.  
+Vous arrivez au village en véritable héros, tout le monde vous acclame.  
+En échange de l'étoile, le maire vous offre une énorme récompense que vous décidez d'offrir à l'orphelinat du village.  
+Ainsi démarre la légende d'El Gato ! (=> fin du jeu, le joueur a gagné !)
+
+Se défendre : (Le joueur lance le dé via le bouton.
+Si le dé affiche un chiffre entre 1 et 3, la défense ne fonctionne pas et l’aventurier est assommé.
+Si le dé affiche un chiffre entre 4 et 6, la défense fonctionne et l’aventurier regagne tranquillement le village après avoir assommé Brutus.)
+
+La défense ne fonctionne pas :
+Brutus arrive sur vous si rapidement que vous n’arrivez pas à parer ou esquiver l’attaque. La violence du choc vous fait perdre connaissance.
+À votre réveil, vous constatez qu’après un beau passage à tabac, Brutus a pris l’étoile.
+Vous retournez au village en boitant, le visage tuméfié. Vous êtes accueillis par un silence glacial tandis que tout le monde vante les mérites et les exploits de Brutus. (=> fin de partie)
+
+La défense fonctionne :
+Vous voyez Brutus foncer sur vous comme un taureau furieux et, tel un torero avec votre cape, vous l’esquivez plusieurs fois. L’animal, à bout de souffle, met ses dernières forces dans une ultime course, sans se rendre compte que vous aviez tout calculé depuis le début.
+Vous l’esquivez une dernière fois et il se retrouve tête la première dans un arbre. Assommé sur le coup, vous lui dites : « C’est ce qui arrive quand on s’en prend à El Gato ! »
+Vous arrivez au village en véritable héros, tout le monde vous acclame.
+En échange de l’étoile, le maire vous offre une énorme récompense que vous décidez d’offrir à l’orphelinat du village.
+Ainsi démarre la légende d’El Gato ! (=> fin du jeu, le joueur a gagné !)
+
+S'excuser et donner l’étoile :
+Voyant Brutus arriver sur vous, vous vous mettez à genoux pour implorer son pardon et lui demander de ne pas vous faire de mal.
+Vous lui tendez l’étoile, la main tremblante, il la récupère, le sourire aux lèvres, et s’en va en sifflotant.
+Vous retournez au village, honteux, et vous êtes accueillis par un silence glacial tandis que tout le monde vante les mérites et les exploits de Brutus. (=> fin de partie)

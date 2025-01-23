@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Histoire</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <!-- font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <!--musique de fond  -->
+    <audio src="assets/audio.mp3" loop autoplay></audio>
+
+    <div class="containerMainIntro">
+        <video autoplay width="100%" height="100%">
+          <source class="video" type="video/mp4" src="assets/page0.mp4" /></source>
+      </video> 
+    </div>
+
+    <div class="containerMainHistory">
+      <div class="containerLeft">
+        <div class="containerText">
+          <p class="title"></p>
+          <p class="text"></p>
+        </div>
+        <button class="containerDice"></button>
+      </div>
+
+      <div class="containerRight">
+        <img alt="personnage histoire" class="containerImageHistory" />
+        <div class="containerChoices"></div>
+      </div>
+      <script src="script/page.js"></script>
+      <script src="script/script.js"></script>
+    </div>
+  </body>
+</html>
